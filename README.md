@@ -1,34 +1,30 @@
-Olá! Eu sou o César Freire
+<h1>👋 &nbsp;Olá, eu sou o César Freire, um desenvolvedor full stack!</h1>
 
-##
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-<div align="center">
-  <a href="https://github.com/Cesar-Freire">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesar-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Freire&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p>
+👨🏻‍💻&nbsp; Atualmente fazendo Graduação em análise e desenvolvimento de Sistema, primeiro semestre.
+Iniciado desenvolvimento no começo de 2022. Me reconheço como entusiasta em novas tecnologia do mercado, com aprendizado adquirido dias após dia.
+Me considero ágil e consistente em aprender uma nova tecnologia e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
+Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado!
+<p>
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-##
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="cesar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="cesar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
-##
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<div> 
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-  <a href="https://www.instagram.com/sezaruuu_freire/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/sezaruuu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:heatfreire1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-freire-a5587018b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dark)
 
 
