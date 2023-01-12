@@ -25,6 +25,6 @@ Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverant
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dark)
+
 
 
