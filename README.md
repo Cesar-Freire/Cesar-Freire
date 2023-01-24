@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, eu sou César Freire programador Python | Java | Back-End! </h2>
+<h2 align="center"> Olá, eu sou César Freire desenvolvedor Python | Java | Back-End! </h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h2>
 <h4>💻 &nbsp;Front-end:</h3>
