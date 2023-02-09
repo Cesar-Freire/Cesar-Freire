@@ -1,13 +1,10 @@
-<h2 align="center"> Olá, eu sou César Freire desenvolvedor Java | Python | Back-End! </h2>
+<h2 align="center"> Olá, eu sou César Freire, Desenvolvedor Back-End | Java | Python</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h2>
-<h4>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <h4>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
@@ -16,7 +13,13 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 <p>
-Comecei minha graduação em análise e desenvolvimento de Sistema, segundo semestre, pela faculdade Estácio "EaD".
-Iniciado desenvolvimento no começo em agosto de 2022. Me reconheço como entusiasta em novas tecnologia do mercado, com aprendizado adquirido dias após dia.
-Me considero ágil e consistente em aprender uma nova tecnologia e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
-<p>
+<p>OBJETIVO:<p>
+Procuro oportunidade na área de desenvolvimento de Back-End e estou em busca de crescimento, aprendizado e novas perspectivas de futuro.hr<p>
+<p>HABILIDADES:<p>
+Proatividade, organização, boa comunicação, facilidade de se adaptar a novas funções, resolução de problemas, resiliente e paciente.
+
+<p>EDUCAÇÃO:<p>
+2022 – 2024 (Previsão da formação)
+<p>Análise e Desenvolvimento de Sistemas - Cursando
+Estácio Ribeirão Preto
+</p>
