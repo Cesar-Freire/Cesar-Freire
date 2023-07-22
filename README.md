@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, eu sou César Freire, Python Developer | Back-End | MySQL 
+<h2 align="center"> Olá, eu sou César Freire, Python Developer | Java| Back-End | MySQL 
 <h3> 🛠 &nbsp;Tech Stack</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
