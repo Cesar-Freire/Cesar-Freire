@@ -1,14 +1,4 @@
 <h2 align="center"> Olá, eu sou César Freire, Python Developer | Java| Back-End | MySQL 
-<h3> 🛠 &nbsp;Tech Stack</h2>
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-<h4>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 <p>
