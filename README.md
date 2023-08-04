@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, eu sou César Freire, Python Developer | Java| Back-End | MySQL 
+<h2 align="center"> Olá, eu sou César Freire, Python Developer | Java | Back-End | MySQL 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 <p>
